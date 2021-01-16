@@ -59,4 +59,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made by Allan Galdino 👋 [See my linkedin](https://www.linkedin.com/in/welton-leite-b3492985/)
+Made by Welton Leite 👋 [See my linkedin](https://www.linkedin.com/in/welton-leite-b3492985/)
